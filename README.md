@@ -41,10 +41,6 @@ Contribuições
 
 Pull requests são bem-vindos. Para mudanças grandes, abra uma issue primeiro descrevendo a alteração.
 
-Licença
-
-Este projeto está sem licença explícita no repositório; adicione uma `LICENSE` se desejar torná-lo público com termos claros.
-
 Licenças de Assets:
 Digital Audio
 
